@@ -1,0 +1,4 @@
+#Mon Mar 25 08:54:49 CAT 2019
+base.0=C\:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

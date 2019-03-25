@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_med.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\tab_med.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_historical__data.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_historical__data.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\img.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_local_new_leaks.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\local_new_leaks.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_inactive.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\add_inactive.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_vreport.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_vreport.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_equipment__types.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\equipment__types.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_dreport.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_dreport.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading3.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\loading3.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_operator.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_operator.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_survey1.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\survey1.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_prev.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\prev.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_units.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\units.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_inspection.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\inspection.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_losurvey.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\losurvey.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_high_leaker2.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\high_leaker2.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_newlogo.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\newlogo.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_sites.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\sites.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_e3soft.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\e3soft.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg4.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\bg4.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_reports.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_reports.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_loperator.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\loperator.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gas.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\gas.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading4.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\loading4.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_dbm.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\dbm.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_equipment__numbers.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\equipment__numbers.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading2.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\loading2.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_same.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\same.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_management2.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\management2.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_submit.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\submit.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_small.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\tab_small.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_survey__emissions.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\survey__emissions.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading5.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\loading5.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher2.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-mdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_sections.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\sections.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\table.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_e3softlocal1.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\e3softlocal1.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_local.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\local.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_current__site.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_current__site.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_newleaks.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\newleaks.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_same_inactive.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\same_inactive.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout2.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\logout2.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_local__marketing.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_local__marketing.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_local__marketing.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\local__marketing.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_current__site.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\current__site.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ppm.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\ppm.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_same_release.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\same_release.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_small_active.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\tab_small_active.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_hleaker.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_hleaker.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_userdetails.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\userdetails.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete_inactive.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\delete_inactive.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_survey2.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\survey2.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lohighleaker.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\lohighleaker.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\tab.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg1.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\bg1.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_high_leaker.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\high_leaker.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_local_old_leaks.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\local_old_leaks.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_dreport.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\dreport.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_finspection.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_finspection.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_equipment__size.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\equipment__size.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_management.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\management.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_local_user_details.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_local_user_details.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_high__leaker.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\high__leaker.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_local_repairs.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\local_repairs.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_products.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\products.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_database.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\database.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_local_user_details.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\local_user_details.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_local_repairs.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_local_repairs.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh_inactive.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\refresh_inactive.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_high__leaker.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_high__leaker.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_oldleaks.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\oldleaks.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_repairs.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\repairs.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_management3.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\management3.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_large_active.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\tab_large_active.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_local_new_leaks.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_local_new_leaks.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_local_reports.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\local_reports.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_report.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\report.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_drawings.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\drawings.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_local_home.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\local_home.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_local_home.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_local_home.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_equipment__description.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\equipment__description.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_prev_inactive.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\prev_inactive.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lologout.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\lologout.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_reports.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\reports.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_localhighleaker.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_localhighleaker.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_knpc__operator.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\knpc__operator.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_operator.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\operator.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_newreports.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\newreports.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_measurement__positions.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\measurement__positions.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit_inactive.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\edit_inactive.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_freport.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_freport.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_equipment__classes.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\equipment__classes.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_local_reports.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_local_reports.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_knpc__user.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\knpc__user.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_historical__data.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\historical__data.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_control__numbers.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\control__numbers.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_def.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\def.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_active.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\tab_active.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_report.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\report.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_inactive.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\next_inactive.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_maintenance.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_maintenance.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_freport.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\freport.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_search__items.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\search__items.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_high_leaker1.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\high_leaker1.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg3.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\bg3.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_maintenance.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\maintenance.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_loperator.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_loperator.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_survey3.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\survey3.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_data.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_edit_data.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_local_marketing.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_local_marketing.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lel.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\lel.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_vreport.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\vreport.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_local_old_leaks.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_local_old_leaks.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_med_active.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\tab_med_active.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_inspection.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_inspection.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_update.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\update.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loreports.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\loreports.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_large.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\tab_large.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_submit_inactive.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\submit_inactive.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_same_press.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\same_press.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refineries.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\refineries.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_local_marketing.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\local_marketing.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_splash.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_enserve__user.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\enserve__user.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_enserve__operator.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\enserve__operator.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\menu_edit_data.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\menu\\edit_data.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Critical Software\\Working Examples\\E3Soft\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_e3softbig3.png.flat",
+        "source": "C:\\Critical Software\\Working Examples\\E3Soft\\src\\main\\res\\drawable-hdpi\\e3softbig3.png"
+    }
+]

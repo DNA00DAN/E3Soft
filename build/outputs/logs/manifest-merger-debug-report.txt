@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:2:1-154:12
+	package
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:13:22-72
+uses-feature#android.hardware.camera
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:16:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:17:19-67
+application
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:20:5-152:19
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:24:9-45
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:23:9-31
+	android:icon
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.e3soft.Home
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:26:9-28:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:27:13-33
+activity#com.example.e3soft.userDetails
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:29:9-32:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:30:13-40
+activity#com.example.e3soft.NewLeaks
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:33:9-36:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:34:13-37
+activity#com.example.e3soft.NewReports
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:37:9-40:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:38:13-39
+activity#com.example.e3soft.OldLeaks
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:41:9-44:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:42:13-37
+activity#com.example.e3soft.Repairs
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:45:9-48:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:47:13-35
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:46:13-36
+activity#com.example.e3soft.Current_Site
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:49:9-53:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:52:13-65
+	android:configChanges
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:51:13-63
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:50:13-41
+activity#com.example.e3soft.High_Leaker
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:54:9-57:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:56:13-64
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:55:13-40
+activity#com.example.e3soft.Operator
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:58:9-61:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:61:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:60:13-60
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:59:13-37
+activity#com.example.e3soft.Inspection
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:62:9-65:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:64:13-62
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:63:13-39
+activity#com.example.e3soft.Historical_Data
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:66:9-69:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:68:13-68
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:67:13-44
+activity#com.example.e3soft.Maintenance
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:70:9-73:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:72:13-63
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:71:13-40
+activity#com.example.e3soft.Splash
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:74:9-82:20
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:75:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:77:13-81:29
+action#android.intent.action.MAIN
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:78:17-69
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:78:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:80:27-74
+activity#com.example.e3soft.Reports
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:83:9-86:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:85:13-59
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:84:13-36
+activity#com.example.e3soft.Local_Marketing
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:87:9-90:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:89:13-68
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:88:13-44
+receiver#com.example.e3soft.myReceiver
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:92:9-96:20
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:92:19-45
+intent-filter#action:name:com.example.e3soft.receiver
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:93:13-95:29
+action#com.example.e3soft.receiver
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:94:17-77
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:94:25-67
+activity#com.example.e3soft.LocalMarketing
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:98:9-101:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:100:13-67
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:99:13-43
+activity#com.example.e3soft.Freport
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:102:9-105:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:105:13-49
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:103:13-36
+activity#com.example.e3soft.Vreport
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:106:9-109:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:107:13-36
+activity#com.example.e3soft.Dreport
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:110:9-113:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:113:13-49
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:111:13-36
+activity#com.example.e3soft.LOperator
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:114:9-117:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:116:13-61
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:115:13-38
+activity#com.example.e3soft.FInspection
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:118:9-121:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:121:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:120:13-39
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:119:13-40
+activity#com.example.e3soft.LocalHome
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:122:9-125:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:124:13-62
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:123:13-38
+activity#com.example.e3soft.LocalReports
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:126:9-129:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:129:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:128:13-65
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:127:13-41
+activity#com.example.e3soft.LocalHighLeaker
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:130:9-133:61
+	android:screenOrientation
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:133:13-49
+	android:label
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:132:13-45
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:131:13-44
+activity#com.example.e3soft.EditData
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:134:9-136:20
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:134:19-43
+activity#com.example.e3soft.LocalNewLeaks
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:137:9-139:25
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:138:13-42
+activity#com.example.e3soft.LocalUserDetails
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:140:9-142:25
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:140:19-51
+activity#com.example.e3soft.LocalOldLeaks
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:143:9-145:25
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:143:19-48
+activity#com.example.e3soft.LocalRepairs
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:146:9-148:25
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:146:19-47
+activity#com.example.e3soft.HLeaker
+ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:149:9-151:25
+	android:name
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml:149:19-42
+uses-sdk
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+		ADDED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml
+		INJECTED from C:\Critical Software\Working Examples\E3Soft\src\main\AndroidManifest.xml

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.e3soft"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="e3Soft"
+        android:screenOrientation="portrait"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.e3soft.Home"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.userDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.NewLeaks"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.NewReports"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.OldLeaks"
+            android:label="e3Soft"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Repairs"
+            android:label="e3Soft"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Current_Site"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_current__site"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.High_Leaker"
+            android:label="@string/title_activity_high__leaker"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Operator"
+            android:label="@string/title_activity_operator"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Inspection"
+            android:label="@string/title_activity_inspection"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Historical_Data"
+            android:label="@string/title_activity_historical__data"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Maintenance"
+            android:label="@string/title_activity_maintenance"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Splash"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.e3soft.Reports"
+            android:label="@string/title_activity_reports"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Local_Marketing"
+            android:label="@string/title_activity_local__marketing"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name="com.example.e3soft.myReceiver" >
+            <intent-filter>
+                <action android:name="com.example.e3soft.receiver" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.example.e3soft.LocalMarketing"
+            android:label="@string/title_activity_local_marketing"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Freport"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Vreport"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.Dreport"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.LOperator"
+            android:label="@string/title_activity_loperator"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.FInspection"
+            android:label="finspecion"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.LocalHome"
+            android:label="@string/title_activity_local_home"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.LocalReports"
+            android:label="@string/title_activity_local_reports"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.e3soft.LocalHighLeaker"
+            android:label="Local HighLeaker"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.example.e3soft.EditData" >
+        </activity>
+        <activity android:name="com.example.e3soft.LocalNewLeaks" />
+        <activity android:name="com.example.e3soft.LocalUserDetails" />
+        <activity android:name="com.example.e3soft.LocalOldLeaks" />
+        <activity android:name="com.example.e3soft.LocalRepairs" />
+        <activity android:name="com.example.e3soft.HLeaker" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.e3soft.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

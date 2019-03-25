@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+
+    defaultConfig {
+        applicationId "com.example.e3soft"
+        minSdkVersion 23
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation files('libs/android-support-v4.jar')
+    implementation files('libs/EnserveWebServiceUtility.jar')
+}
+
+buildscript {
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.2'
+    }
+    repositories {
+        jcenter()
+        google()
+    }
+}
+allprojects {
+    repositories {
+        jcenter()
+    }
+}

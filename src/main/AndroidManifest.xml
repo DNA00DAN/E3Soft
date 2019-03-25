@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.e3soft"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="e3Soft"
+        android:screenOrientation="portrait"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Home"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".userDetails"
+
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".NewLeaks"
+
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".NewReports"
+
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".OldLeaks"
+            android:label="e3Soft"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Repairs"
+            android:label="e3Soft"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Current_Site"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_current__site"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".High_Leaker"
+            android:label="@string/title_activity_high__leaker"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Operator"
+            android:label="@string/title_activity_operator"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Inspection"
+            android:label="@string/title_activity_inspection"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Historical_Data"
+            android:label="@string/title_activity_historical__data"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Maintenance"
+            android:label="@string/title_activity_maintenance"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Splash"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Reports"
+            android:label="@string/title_activity_reports"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Local_Marketing"
+            android:label="@string/title_activity_local__marketing"
+            android:screenOrientation="portrait"></activity>
+
+        <receiver android:name=".myReceiver">
+            <intent-filter>
+                <action android:name="com.example.e3soft.receiver"></action>
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".LocalMarketing"
+            android:label="@string/title_activity_local_marketing"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Freport"
+
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Vreport"
+
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Dreport"
+
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".LOperator"
+            android:label="@string/title_activity_loperator"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".FInspection"
+            android:label="finspecion"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".LocalHome"
+            android:label="@string/title_activity_local_home"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".LocalReports"
+            android:label="@string/title_activity_local_reports"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".LocalHighLeaker"
+            android:label="Local HighLeaker"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".EditData">
+
+        </activity>
+        <activity
+            android:name=".LocalNewLeaks"
+            ></activity>
+        <activity android:name=".LocalUserDetails"
+
+            ></activity>
+        <activity android:name=".LocalOldLeaks"
+
+            ></activity>
+        <activity android:name=".LocalRepairs"
+
+            ></activity>
+        <activity android:name=".HLeaker"
+
+            ></activity>
+    </application>
+
+</manifest>

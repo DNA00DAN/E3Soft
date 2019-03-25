@@ -1,0 +1,1016 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg4"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Repairs"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="1dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:paddingTop="1dp">
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp">
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="110dp"
+                        android:text="Site:" />
+
+                    <Spinner
+                        android:id="@+id/mSiteSpRep"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:minWidth="200dp"
+                        android:paddingRight="100dp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="110dp"
+                        android:text="Unit:" />
+
+                    <Spinner
+                        android:id="@+id/sUnitSp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:minWidth="200dp"
+                        android:paddingRight="100dp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="110dp"
+                        android:text="Old Leaks:" />
+
+                    <Spinner
+                        android:id="@+id/oldLeakSp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:minWidth="200dp"
+                        android:paddingRight="100dp" />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="1dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:paddingTop="1dp">
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp">
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"></TableRow>
+
+                <TableRow
+                    android:id="@+id/tableRow0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"></TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="10dp"
+                        android:text="Leaker ID:" />
+
+                    <EditText
+                        android:id="@+id/mSearchETNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ems="10"
+                        android:inputType="number" />
+
+                    <Button
+                        android:id="@+id/mSearchBtnNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Search" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/showImageBtnRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Show Image" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/imageHLRep"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:src="@drawable/def" />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="1dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:paddingTop="1dp">
+
+            <TableLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dp">
+
+                <TableRow
+                    android:id="@+id/tableRow9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Leaker ID:" />
+
+                    <TextView
+                        android:id="@+id/lIDNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="leaker:" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/tableRow9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Site:" />
+
+                    <TextView
+                        android:id="@+id/mSiteNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Site Name:" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Area:" />
+
+                    <TextView
+                        android:id="@+id/mAreaNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="area" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/tableRow10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Unit Number:" />
+
+                    <TextView
+                        android:id="@+id/mUnitNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Unit Value:" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Unit Name:" />
+
+                    <TextView
+                        android:id="@+id/mUnitNameNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Unit Value:" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Drawing Number:" />
+
+                    <TextView
+                        android:id="@+id/mDrawingNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Drawing Value:" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="System" />
+
+                    <TextView
+                        android:id="@+id/mSystemNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="system" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/tableRow9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Stream" />
+
+                    <TextView
+                        android:id="@+id/mStreamNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="stream" />
+                </TableRow>
+            </TableLayout>
+                <TableRow
+                    android:id="@+id/tableRow9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Specific Location:" />
+
+                    <TextView
+                        android:id="@+id/mSpecificLocNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="location" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="20dp"
+                        android:text="Equipment Location" />
+
+                    <TextView
+                        android:id="@+id/mEquipLocNRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="location" />
+                </TableRow>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp"
+            android:paddingTop="20dp"
+            android:text="Equipment Description and Measurements:"
+            android:textStyle="bold" />
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp">
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Product/Medium:" />
+
+                <TextView
+                    android:id="@+id/mProductNRep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="product" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Equipment Description" />
+
+                <TextView
+                    android:id="@+id/mEquipDescNRep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="desc" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Equipment Type" />
+
+                <TextView
+                    android:id="@+id/mEquipTypeNRep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="type" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Equipment ID" />
+
+                <TextView
+                    android:id="@+id/mEquipIDNRep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ID" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Equipment Size" />
+
+                <TextView
+                    android:id="@+id/mEquipSizeNRep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Measurement Position" />
+
+                <TextView
+                    android:id="@+id/mMPositionNRep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="measurement position" />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp">
+
+            <TableRow
+                android:id="@+id/t1Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 1 Result:" />
+
+                <TextView
+                    android:id="@+id/c1Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 1 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/cccc11Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t2Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 2 Result:" />
+
+                <TextView
+                    android:id="@+id/c2Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 2 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c21Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t3Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 3 Result:" />
+
+                <TextView
+                    android:id="@+id/c3Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 3 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c31Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t4Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 4 Result:" />
+
+                <TextView
+                    android:id="@+id/c4Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 4 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c41Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t5Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 5 Result:" />
+
+                <TextView
+                    android:id="@+id/c5Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 5 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c51Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t6Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 6 Result:" />
+
+                <TextView
+                    android:id="@+id/c6Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 6 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c61Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t7Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 7 Result:" />
+
+                <TextView
+                    android:id="@+id/c7Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 7 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c71Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t8Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 8 Result:" />
+
+                <TextView
+                    android:id="@+id/c8Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 8 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c81Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t9Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 9 Result:" />
+
+                <TextView
+                    android:id="@+id/c9Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 9 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c91Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t10Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 10 Result:" />
+
+                <TextView
+                    android:id="@+id/c10Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 10 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c101Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t11Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 11 Result:" />
+
+                <TextView
+                    android:id="@+id/cc11RRep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 11 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c111Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/t12Rep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 12 Result:" />
+
+                <TextView
+                    android:id="@+id/c12Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cycle 12 Repaired Result:" />
+
+                <TextView
+                    android:id="@+id/c121Rep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="leaker:" />
+            </TableRow>
+        </TableLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingBottom="1dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:paddingTop="1dp">
+
+            <TableLayout
+                android:id="@+id/tab1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp">
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                <Spinner
+                    android:id="@+id/commentComboRep"
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="right" />
+</TableRow>
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <RadioGroup
+                        android:id="@+id/repGroupRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp">
+
+                        <RadioButton
+                            android:id="@+id/radioRepairRep"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:checked="true"
+                            android:paddingRight="10dp"
+                            android:text="Repair Attempted" />
+
+                        <RadioButton
+                            android:id="@+id/radioNRepairRep"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="10dp"
+                            android:text="Not Repaired" />
+                    </RadioGroup>
+                </TableRow>
+
+
+            </TableLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="1dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:paddingTop="1dp">
+
+            <TableLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp">
+
+                <TableRow
+                    android:id="@+id/tableRow8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="40dp"
+                        android:text="Measurement Results:" />
+
+                    <EditText
+                        android:id="@+id/measurementTxt1NRep"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"/>
+
+                    <RadioGroup
+                        android:id="@+id/radioGroup1Rep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="40dp">
+
+                        <RadioButton
+                            android:id="@+id/radioPPM1NRep"
+                            android:button="@drawable/survey1"
+                            android:paddingLeft="10dp"
+                            android:text="PPM"
+                            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                        <RadioButton
+                            android:id="@+id/radioLEL1NRep"
+                            android:button="@drawable/survey1"
+                            android:paddingLeft="10dp"
+                            android:text="LEL"
+                            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                        <RadioButton
+                            android:id="@+id/radioGAS1NRep"
+                            android:button="@drawable/survey1"
+                            android:paddingLeft="10dp"
+                            android:text="Gas%"
+                            android:textAppearance="?android:attr/textAppearanceLarge" />
+                    </RadioGroup>
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="40dp"
+                        android:text="Background:" />
+
+                    <EditText
+                        android:id="@+id/backGTxt1NRep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ems="10"
+                        android:inputType="number" />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="1dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:paddingTop="1dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date and Time:" />
+
+            <TextView
+                android:id="@+id/dateTxt2NRep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="00:00:00" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="1dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:paddingTop="1dp">
+
+            <Button
+                android:id="@+id/submitBtnOldNRep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/submit"
+                android:text="" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/clearBtnOldNRep"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="RESET" />
+    </LinearLayout>
+
+</ScrollView>
